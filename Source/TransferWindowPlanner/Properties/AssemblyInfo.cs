@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("TransferWindowPlanner")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("The Transfer Window Planner is a plugin to let you visualise planetary transfer efficiency in-game.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TriggerTech")]
-[assembly: AssemblyProduct("TransferWindowPlanner")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany(TransferWindowPlanner.LegalMamboJambo.Company)]
+[assembly: AssemblyProduct(TransferWindowPlanner.LegalMamboJambo.Company)]
+[assembly: AssemblyCopyright(TransferWindowPlanner.LegalMamboJambo.Copyright)]
+[assembly: AssemblyTrademark(TransferWindowPlanner.LegalMamboJambo.Trademark)]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
